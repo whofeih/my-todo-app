@@ -1,8 +1,13 @@
 Server
-npm install
-npm start
+
+`npm install`
+
+`npm start`
 
 Client
-cd client
-npm install
-npm start
+
+`cd client`
+
+`npm install`
+
+`npm start`
